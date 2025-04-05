@@ -12,7 +12,7 @@ The Alignment Protocol is a decentralized data quality validation system, enabli
 
 ### Downloading the Binary
 
-1. Go to the [Alignment Protocol CLI Releases Page](https://github.com/your-organization/alignment-protocol-cli/releases) (Replace with the actual URL).
+1. Go to the [Alignment Protocol CLI Releases Page](https://github.com/alignment-protocol/cli/releases/tag/v0.2.0).
 2. Download the appropriate binary for your operating system (e.g., `alignment-protocol-cli-macos-amd64`, `alignment-protocol-cli-linux-amd64`, `alignment-protocol-cli-windows-amd64.exe`).
 3. (Optional but recommended) Rename the downloaded file to `alignment-protocol-cli` (or `alignment-protocol-cli.exe` on Windows) and place it in a directory included in your system's PATH (e.g., `/usr/local/bin` or `~/bin` on Linux/macOS).
 
